@@ -1,0 +1,1 @@
+add_library(commands arguments.hpp commands.hpp logic_commands.hpp parser.hpp logic_commands.cpp parser.cpp)

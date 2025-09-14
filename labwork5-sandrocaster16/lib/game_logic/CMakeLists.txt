@@ -1,0 +1,1 @@
+add_library(game_logic field.hpp game.hpp field.cpp game.cpp)
