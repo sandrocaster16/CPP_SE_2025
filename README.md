@@ -19,3 +19,7 @@ C++ Labs from 1-2nd semester
 
 По всем вопросам пишите в тг (в профиле)<br>
 For all questions, write in telegram (in profile)
+
+#
+
+25k lines lol
